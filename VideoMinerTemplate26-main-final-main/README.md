@@ -113,5 +113,5 @@ dailymotion.base-url=[https://api.dailymotion.com](https://api.dailymotion.com)
 3. ✅ **Federación de PeerTube:** Compatibilidad total con la arquitectura descentralizada de PeerTube mediante algoritmos de *Fallback* que evitan caídas por errores 404.
 
 ---
-**Autores:** Adrián Prado Bellido, José Ángel Jara García, Jorge Espina Apellaniz, Diego Peña Sánchez.
+**Autores:** Adrián Prado Bellido, José Ángel Jara García, Jorge Espina Apellaniz, Diego Peña Sánchez.  
 Proyecto de Integración (AISS - Curso 2025/2026).
