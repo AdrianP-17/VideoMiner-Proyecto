@@ -69,7 +69,7 @@ Utiliza peticiones `POST` a los mineros para que vayan a Internet, extraigan los
 
 * **Importar desde PeerTube:**
   * *Ruta:* `POST http://localhost:8081/api/channels/{id}?maxVideos=10&maxComments=2`
-  * *Ejemplos de IDs para probar:* `stux` (peertube.tv), `framablog.audio` (framatube).
+  * *Ejemplo de ID para probar:* `stux` (peertube.tv).
 * **Importar desde Dailymotion:**
   * *Ruta:* `POST http://localhost:8082/api/channels/{id}?maxVideos=10&maxPages=2`
   * *Ejemplos de IDs para probar:* `euronews-es`, `BBC`.
@@ -113,4 +113,5 @@ dailymotion.base-url=[https://api.dailymotion.com](https://api.dailymotion.com)
 3. ✅ **Federación de PeerTube:** Compatibilidad total con la arquitectura descentralizada de PeerTube mediante algoritmos de *Fallback* que evitan caídas por errores 404.
 
 ---
-**Autores:** Proyecto Arquitectura e Integración de Sistemas Software (AISS) - Curso 2025/2026.
+**Autores:** Adrián Prado Bellido, José Ángel Jara García, Jorge Espina Apellaniz, Diego Peña Sánchez.
+Proyecto de Integración (AISS - Curso 2025/2026).
